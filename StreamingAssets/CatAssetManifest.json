@@ -1,6 +1,6 @@
 {
     "GameVersion": "Build",
-    "ManifestVersion": 5,
+    "ManifestVersion": 10,
     "Bundles": [
         {
             "Directory": "BundleRes",
@@ -10,6 +10,7 @@
             "IsScene": false,
             "Length": 6531198,
             "MD5": "8d9ce7d30cfcaa35e02b35bd63ae2828",
+            "Hash": "d159fd457e50d0cdd4b0fcfbc0fa4ce4",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Covers/Music_01/Bg.png",
@@ -51,6 +52,7 @@
             "IsScene": false,
             "Length": 2860,
             "MD5": "d1ab92e93c99d41ac0924811eeba2e37",
+            "Hash": "399100e9cc50ee5ce9967a8a0e086d3a",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_00/TimelineData.asset",
@@ -67,6 +69,7 @@
             "IsScene": false,
             "Length": 3613670,
             "MD5": "374bb30687ead7d65d4dd1d4c5a7e61d",
+            "Hash": "dfb3adf64ff60bec9fe5ca7e3fe1c69f",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_01/LrcText.txt",
@@ -93,6 +96,7 @@
             "IsScene": false,
             "Length": 4972395,
             "MD5": "b9ad51c5acbc550aca5d34a58af132c2",
+            "Hash": "35c7dcecb354394fe913f135ccdd0ca0",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_02/Music.ogg",
@@ -114,6 +118,7 @@
             "IsScene": false,
             "Length": 4301706,
             "MD5": "cbd6f1e1cb963ef0a8d1c5e06464750e",
+            "Hash": "4a4718d72414dcf8c83fcfe7412ab27b",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/MusicGameMap/Map_03/Music.ogg",
@@ -135,6 +140,7 @@
             "IsScene": false,
             "Length": 877610,
             "MD5": "50075c78156780119322cfeac99713e3",
+            "Hash": "02f6d6767b2df5ca1b95e0647144b340",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/Effect/BreakHitEffect.prefab",
@@ -435,6 +441,7 @@
             "IsScene": false,
             "Length": 423894,
             "MD5": "37fe632d4328581f0fbd443bba1addb7",
+            "Hash": "2136294f0094e4ca9fb9ec0fe9f9d8c9",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/MapSelectUI/MapSelectPanel.prefab",
@@ -499,6 +506,7 @@
             "IsScene": false,
             "Length": 12571315,
             "MD5": "1656cda9bceeca390bdad1fbdcda0a14",
+            "Hash": "3aa0dc25fcc77a5d7ecac9f1baf57e96",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/MusicGameUI/MusicGame3DUIPanel.prefab",
@@ -579,6 +587,7 @@
             "IsScene": false,
             "Length": 88564,
             "MD5": "c3c0c29242839229b55ce5cb8f8e55cd",
+            "Hash": "0ee05bdd7a656d1907a39dd490d450c1",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Prefabs/Notes/Break.prefab",
@@ -820,6 +829,7 @@
             "IsScene": true,
             "Length": 86411,
             "MD5": "bcb3240d4b769dcb17e30d2f8df8efa2",
+            "Hash": "7e3deb59c5d0e8bb63d08154880c132d",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/Scenes/Dark.unity",
@@ -849,6 +859,7 @@
             "IsScene": false,
             "Length": 38939,
             "MD5": "2308048bc81d2a10d2b7173ecce0a840",
+            "Hash": "7ad66c1b489855e6b8023d370082bace",
             "Assets": [
                 {
                     "Name": "Assets/Audio/PromptTone/ns_ding.ogg",
@@ -914,6 +925,7 @@
             "IsScene": false,
             "Length": 2232,
             "MD5": "b096b356d32a11dc99becf950dfe930e",
+            "Hash": "e96fefba79d78a691c0fcac8f572b8c5",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/ScriptObjects/InputMap/InputMapData.asset",
@@ -930,6 +942,7 @@
             "IsScene": false,
             "Length": 2291,
             "MD5": "4fddba81fb22dc466c346fb49afc2ad4",
+            "Hash": "bbc89d30a8800e5d16bd2b3f8d1f91a3",
             "Assets": [
                 {
                     "Name": "Assets/BundleRes/ScriptObjects/InternalMap/InternalMapList.asset",
@@ -946,6 +959,7 @@
             "IsScene": false,
             "Length": 74632,
             "MD5": "db03486414140d2df56f70f7ab0c9e2b",
+            "Hash": "5a6b2f3d83286ab7920eaa1801acbb22",
             "Assets": [
                 {
                     "Name": "Assets/Materials/HoldMat.mat",
@@ -1000,6 +1014,7 @@
             "IsScene": false,
             "Length": 36676472,
             "MD5": "8461a1ef5cf5e6f925aef09519bb69bf",
+            "Hash": "e4c799d40acca440b9758827d138cf82",
             "Assets": [
                 {
                     "Name": "Assets/Font/LXGWWenKaiMono-Bold.ttf",
